@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Bookmarks for A.I. & Healthcare
+title: Bookmarks
 email: wogud9953@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  의대생이 들려주는 딥러닝과 헬스케어
+  By Jaehyeong, Chun
 # baseurl: "/" # the subpath of your site, e.g. /blog
 # url: "http://ejjoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: jaehyeongchun
