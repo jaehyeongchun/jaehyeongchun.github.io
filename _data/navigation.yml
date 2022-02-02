@@ -2,6 +2,12 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Deep Learning"
+    url: /categories/dl
+  - title: "Healthcare"
+    url: /categories/hc
+  - title: "Thoughts"
+    url: /categories/thoughts
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
