@@ -18,21 +18,21 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "ko-KR"
 title                    : "Bookmarks"
 title_separator          : "-"
-subtitle                 : "By Jaehyeong, Chun"
+subtitle                 : "for A.I. and Healthcare" # site tagline that appears below site title in masthead
 name                     : "Chun Jaehyeong"
 description              : "Deep Learning and Healthcare"
-url                      : "https://jaehyeongchun.github.io"
+url                      : "https://jaehyeongchun.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "jaehyeongchun/jaehyeongchun.github.io"
+repository               : "jaehyeongchun/jaehyeongchun.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # "/assets/images/logo.png"
-masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : " Bookmarks by jaehyeong, chun" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "cjh" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -90,11 +90,8 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links:
-    - "https://www.facebook.com/profile.php?id=100003586951452"
-    - "https://www.instagram.com/jaehyeong_chun/?hl=ko"
-    - "https://www.linkedin.com/in/jaehyeong-chun-95971b161/"
-  # An array of links to social media profiles
+  links: # An array of links to social media profiles
+
 
 # Analytics
 analytics:
@@ -107,14 +104,14 @@ analytics:
 # Site Author
 author:
   name             : "Jaehyeong Chun"
-  avatar           : "/assets/images/161x161.png"
-  bio              : "Deep learning researcher at KAIST \n Medical Student at Gachon Uni."
+  avatar           : "/assets/images/161x161.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Deep learning researcher at KAIST <br> Medical Student at Gachon Uni."
   location         : "Seoul, Korea"
-  email            : # "wogud9953@gmail.com"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "wogud9953@gmail.com"
+       url: "wogud9953@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -134,12 +131,21 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
        url: "https://www.facebook.com/profile.php?id=100003586951452"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/jaehyeongchun"
+       url:"https://github.com/jaehyeongchun"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
        url: "https://www.instagram.com/jaehyeong_chun/?hl=ko"
