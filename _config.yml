@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Jaehyeong Chun"
   avatar           : "/assets/images/161x161.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Deep learning researcher at KAIST <br> Medical Student at Gachon Uni."
+  bio              : "💻 Deep learning researcher <br> 💉 Medical Student "
   location         : "Seoul, Korea"
   email            :
   links:
