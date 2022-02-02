@@ -120,13 +120,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-       url: "https://www.facebook.com/profile.php?id=100003586951452"
+      url: "https://www.facebook.com/profile.php?id=100003586951452"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/jaehyeongchun"
+      url: "https://github.com/jaehyeongchun"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://www.linkedin.com/in/jaehyeong-chun-95971b161/"
+      url: "https://www.linkedin.com/in/jaehyeong-chun-95971b161/"
 
 # Site Footer
 footer:
