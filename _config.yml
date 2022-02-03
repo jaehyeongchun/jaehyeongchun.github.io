@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Bookmarks by Chun Jaehyeong"
+title                    : "Bookmarks for A.I. and Healthcare"
 title_separator          : "-"
-subtitle                 : "for A.I. and Healthcare" # site tagline that appears below site title in masthead
+subtitle                 : "by Jaehyeong Chun" # site tagline that appears below site title in masthead
 name                     : "Chun Jaehyeong"
 description              : "Deep Learning and Healthcare"
 url                      : "https://jaehyeongchun.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
