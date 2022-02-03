@@ -15,7 +15,7 @@ sidebar_main: true
 
 - B.S., KAIST, Industrial & Systems Engineering (2013-2018)
 - M.S., KAIST, Industrial & Systems Engineering (2018-2020)
-    - In [Systems Intelligence LAB](silab.kaist.ac.kr) 
+    - In [Systems Intelligence LAB](http://silab.kaist.ac.kr) 
 - M.D., Gachon Universtiy (2020- )
 
 ## Publication
