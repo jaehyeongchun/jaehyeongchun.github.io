@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jaehyeongchun.github.io/sitemap.xml
+Disallow: /private/
+Sitemap: http://jaehyeongchun.github.io/sitemap.xml
