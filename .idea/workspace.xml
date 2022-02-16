@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="149db871-5b47-4275-88f1-90c254b38dfe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1643795776316</updated>
       <workItem from="1643795777690" duration="20110000" />
-      <workItem from="1644980910327" duration="235000" />
+      <workItem from="1644980910327" duration="881000" />
     </task>
     <servers />
   </component>
