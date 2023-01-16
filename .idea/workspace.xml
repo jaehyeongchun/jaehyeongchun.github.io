@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="149db871-5b47-4275-88f1-90c254b38dfe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_includes/mathjax_support.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2023-01-16-RCNN.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-01-15-thoughts1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-01-15-thoughts1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +68,7 @@
       <workItem from="1643795777690" duration="20110000" />
       <workItem from="1644980910327" duration="3045000" />
       <workItem from="1661320485893" duration="2047000" />
-      <workItem from="1673766882648" duration="4445000" />
+      <workItem from="1673766882648" duration="4947000" />
     </task>
     <servers />
   </component>

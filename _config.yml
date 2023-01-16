@@ -124,9 +124,13 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jaehyeongchun"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jaehyeong-chun-95971b161/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.linkedin.com/in/jaehyeong-chun-95971b161/"
+      url: "https://www.instagram.com/jaehyeong_chun/?hl=ko"
+
 
 # Site Footer
 footer:
