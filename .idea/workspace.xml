@@ -24,6 +24,7 @@
       <change afterPath="$PROJECT_DIR$/_posts/2023-01-16-RCNN.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-01-15-thoughts1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-01-15-thoughts1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +71,7 @@
       <workItem from="1643795777690" duration="20110000" />
       <workItem from="1644980910327" duration="3045000" />
       <workItem from="1661320485893" duration="2047000" />
-      <workItem from="1673766882648" duration="4135000" />
+      <workItem from="1673766882648" duration="4445000" />
     </task>
     <servers />
   </component>
