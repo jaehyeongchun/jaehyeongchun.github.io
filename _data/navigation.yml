@@ -3,9 +3,9 @@ main:
   - title: "About"
     url: /about/
   - title: "Deep Learning"
-    url: /categories/dl
+    url: /categories/deeplearning
   - title: "Healthcare"
-    url: /categories/hc
+    url: /categories/healthcare
   - title: "Thoughts"
     url: /categories/thoughts
   # - title: "About"
