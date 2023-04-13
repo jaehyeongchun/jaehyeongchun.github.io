@@ -22,8 +22,6 @@
     <list default="true" id="149db871-5b47-4275-88f1-90c254b38dfe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2023-01-16-RCNN.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-01-16-RCNN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/minimal-mistakes/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_reset.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/minimal-mistakes/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_variables.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +68,9 @@
       <workItem from="1643795777690" duration="20110000" />
       <workItem from="1644980910327" duration="3045000" />
       <workItem from="1661320485893" duration="2047000" />
-      <workItem from="1673766882648" duration="26428000" />
+      <workItem from="1673766882648" duration="26938000" />
+      <workItem from="1675261787398" duration="191000" />
+      <workItem from="1681343213319" duration="904000" />
     </task>
     <servers />
   </component>
