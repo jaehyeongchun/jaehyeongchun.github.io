@@ -22,6 +22,7 @@
     <list default="true" id="149db871-5b47-4275-88f1-90c254b38dfe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2023-01-16-RCNN.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-01-16-RCNN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-04-13-VICReg.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-04-13-VICReg.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +71,7 @@
       <workItem from="1661320485893" duration="2047000" />
       <workItem from="1673766882648" duration="26938000" />
       <workItem from="1675261787398" duration="191000" />
-      <workItem from="1681343213319" duration="904000" />
+      <workItem from="1681343213319" duration="15940000" />
     </task>
     <servers />
   </component>
@@ -90,9 +91,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1673943879333">
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1681369241796">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1673943879333" />
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1681369241796" />
   </component>
 </project>
